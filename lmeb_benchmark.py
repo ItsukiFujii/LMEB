@@ -9,15 +9,6 @@ from mteb.get_tasks import MTEBTasks
 logger = logging.getLogger(__name__)
 
 LMEB_CITATION = r"""
-@misc{zhao2026lmeb,
-      title={LMEB: Long-horizon Memory Embedding Benchmark}, 
-      author={Xinping Zhao and Xinshuo Hu and Jiaxin Xu and Danyu Tang and Xin Zhang and Mengjia Zhou and Yan Zhong and Yao Zhou and Zifei Shan and Meishan Zhang and Baotian Hu and Min Zhang},
-      year={2026},
-      eprint={2603.12572},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2603.12572}, 
-}
 """.strip()
 
 
